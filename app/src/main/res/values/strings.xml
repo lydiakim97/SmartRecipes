@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">SmartRecipes</string>
+
+    <!--6 dinner recipes-->
+    <string-array name="dinner1">
+        <item>dinner</item>
+        <item>Sizzling steak stir-fry</item>
+        <item>d_1</item>
+        <item>320 g tenderstem broccoli;2 x 250 g lean flank steak;2 teaspoons coriander seeds;250 g medium free-range egg noodles;3 teaspoons sesame oil;1 red onion;2 cloves of garlic;6 cm piece of fresh ginger;olive oil;3 tablespoons soy sauce;1 lime;1 fresh red chilli</item>
+        <item>1. Trim the broccoli, cutting any larger broccoli stems in half lengthways, then place in a heatproof bowl and cover with boiling water. Add a good pinch of sea salt and leave for 10 minutes, then drain and put to one side. Half-fill a pan with water and bring to the boil.;2. Slice the steaks against the grain into finger-sized strips and season with sea salt and black pepper.;3. Pound the coriander seeds in a pestle and mortar, or bash with the base of a pan, until fine. Sprinkle over the steak so they stick to it and give it a lovely, fragrant flavour.;4. Drop the noodles into the pan of boiling salted water and cook until just tender. Drain, then toss with 2 teaspoons of sesame oil and return to the pan. Cover to keep warm.;5. Peel and finely slice the onion and garlic, then peel and finely chop the ginger.;6. Heat a splash of olive oil in a wok or large frying pan over a high heat, then add the onions, garlic and ginger. Fry for a couple of minutes, or until the onions have softened slightly.;7. Add the seasoned pieces of steak and stir-fry for 1 to 2 minutes, then add the broccoli and fry for a further 2 minutes, stirring constantly.;8. Pour in the soy sauce and 1 teaspoon of sesame oil, toss in the pan until everything is well coated, then serve with the egg noodles.;9. Cut the lime into wedges for squeezing over, and finely slice the chilli (deseed if you like), then sprinkle over the top.</item>
+        <item>511</item>
+    </string-array>
+
+    <string-array name="dinner2">
+        <item>dinner</item>
+        <item>Moroccan-style roast chicken</item>
+        <item>d_2</item>
+        <item>2 preserved lemons;1 tablespoon ras el hanout;1 dried chilli;1 x whole 1.6kg free-range chicken;olive oil;1 teaspoon rose petals (unsprayed) , optional; a few sprigs of fresh coriander</item>
+        <item>1. Preheat the oven to 180ºC/gas 4.;2. Finely chop 1 of the preserved lemons and bash together with the ras el hanout, dried chilli and a pinch of sea salt and black pepper using a pestle and mortar.;3. Slice the remaining lemon and divide between the base of a roasting tray and the cavity of the chicken.;4. Slash the chicken breast a few times and rub in the marinade. Drizzle with oil, rub again, and place in the roasting tray.;5. Scatter with rose petals (if using), and roast for 1 hour 20 minutes, until the skin is sticky and chicken is cooked. Pick, then scatter over the coriander leaves to serve</item>
+        <item>301</item>
+    </string-array>
+
+
+    <string-array name="dinner3">
+        <item>dinner</item>
+        <item>LA-style turkey salad</item>
+        <item>d_3</item>
+        <item>1/2 teaspoon cayenne pepper;1 tablespoon paprika;1/2 teaspoon white pepper;1 teaspoon dried oregano;extra vigin olive oil;2 skinless free-range turkey breasts , or about 600g free-range chicken, if you prefer;2 ripe avocados;4 tablespoons fat-free plain yoghurt;2 limes , plus extra to serve;1 fresh jalapeno or red chilli;1 large bunch of coriander;2 corn tortillas</item>
+        <item>1. Preheat the oven to 180C/gas 4. Place a griddle pan over a high heat. Mix the cayenne pepper, paprika, white pepper and oregano with a good pinch of sea salt and a little oil and rub all over the turkey breasts. Put the turkey in the pan, turn the heat to medium, and cook for 20 to 25 minutes, turning halfway.;2. Meanwhile, make the salad and dressing. Halve, destone and peel one of the avocados, then blitz in a blender with the yoghurt, lime juice, chilli, most of the coriander and a good drizzle of oil until you have a creamy dressing. Season to taste, add a splash of water to loosen, if needed, then set aside.;3. Slice the corn tortilla into 1cm strips, place onto a baking tray and bake in the oven for a few minutes, until golden and crisp.;4. When your turkey is almost cooked, add the bacon to the pan for the last few minutes to crisp up. Once done, transfer the turkey to a board to rest, then thinly slice.;5. Cut the lettuces into wedges, then crudely toss in a bowl with the turkey and avocado dressing, then scatter over a board. Crumble over the bacon, add the tortilla strips, then use a spoon to scoop out little nuggets of the remaining avocado and add these.;6. Peel and segment the grapefruit, then scatter over the board with the cress (if using), and the remaining coriander leaves. Serve with lime wedges for squeezing over.</item>
+        <item>301</item>
+    </string-array>
+
+    <string-array name="dinner4">
+        <item>dinner</item>
+        <item>Kerryann’s chilli con veggie</item>
+        <item>d_4</item>
+        <item>2 medium onions;4 cloves of garlic;1 medium leek;1 long fresh red chilli;2 tablespoons olive oil;2 tablespoons ground cumin;2 tablespoons ground coriander;2 tablespoons smoked paprika;½ a cinnamon stick , or 1 teaspoon ground cinnamon;2 tablespoons dried oregano;1 whole nutmeg , for grating;2 tablespoons tomato purée;250 g dried green lentils;250 g dried red lentils;2 x 400 g tins of red kidney beans;2 x 400 g tins of black beans;2 x 400 g tins of chopped tomatoes</item>
+        <item>1. Peel and finely chop the onions and garlic, then trim and finely chop the leek and chilli (I leave the seeds in, but deseed if you prefer), and place into your largest, heavy-based pan over a medium heat with the oil. Fry for about 5 minutes, or until softened.;2. Add the spices, dried herbs and a good grating of nutmeg, then fry for 2 minutes – if it’s a little dry at this point, simply add a splash of water to help it out. Stir in the tomato purée and cook for a further 2 minutes.;3. Stir in the lentils. Drain, rinse and stir in the beans, followed by the chopped tomatoes and the stock (I try to use homemade stock, but if you’ve only got stock cubes, that’s fine too).;4. Bring it all to the boil, then reduce to a low heat and let it bubble away for at least 1 hour, or until thickened and reduced, stirring every 15 to 20 minutes, then season to how you like it.;5. I like this with rice or on a jacket potato, scattered with coriander leaves and with lime wedges and a dollop of soured cream on the side.</item>
+        <item>388</item>
+    </string-array>
+
+    <string-array name="dinner5">
+        <item>dinner</item>
+        <item>Rigatoni with roasted tomatoes</item>
+        <item>d_5</item>
+        <item>1.5 kg vine tomatoes;4 cloves of garlic, unpeeled;3 bay leaves;5 thyme sprigs;A splash of red wine vinegar;400 g dried rigatoni;80 g ricotta salata;A small bunch of basil , leaves picked (optional)</item>
+        <item>1. Preheat the oven to 200C/gas 6. Put the tomatoes on a large baking tray, and season. Scatter over the garlic cloves, thyme sprigs and bay leaves then transfer to the oven and roast for 25 minutes, until the tomato skins are burnished and split.;2. Let the tomatoes cool for a minute or two, then pull them off the vines and place in a frying pan with the red wine vinegar and a pinch more salt and pepper. Squash with a spoon and simmer for 15 minutes, until you have a thick, strawberry-red sauce with an almost creamy consistency.;3. Bring a pan of salted water to the boil and cook the rigatoni according to the packet instructions. Drain, reserving a cupful of cooking water, and add to the sauce with a little of the water to loosen. Drizzle over a good glug of olive oil and serve with grated ricotta and a scattering of basil leaves, if you like.</item>
+        <item>181</item>
+    </string-array>
+
+    <string-array name="dinner6">
+        <item>dinner</item>
+        <item>Spring chicken pie</item>
+        <item>d_6</item>
+        <item>2 lemons;500 g Jersey Royals;1/2 a bunch of fresh tarragon;1 bunch of fresh flat-leaf parsley;8 free-range chicken thighs, bone in, skin on, from sustainable sources;6 cloves of garlic;olive oil;50 g unsalted butter;2 tablespoons plain flour;400 ml chicken stock;2 teaspoons Dijon mustard;75 g watercress;5 sheets of filo pastry</item>
+        <item>1. Preheat the oven to 190ºC/gas 5.;2. Halve the lemons, quarter the Jersey Royals, then pick and finely chop the tarragon and parsley.;3. Put the chicken, unpeeled garlic cloves, lemon and potatoes in a large baking tray, drizzle with oil, season, then toss together and pop in the oven for 45 minutes, or until golden, crispy and cooked. Remove from the oven and allow to cool.;4. Meanwhile, melt the butter in a large non-stick saucepan until bubbling. Add the flour and stir for 1 to 2 minutes to form a paste, then slowly pour in the stock, whisking until thickened. Add the mustard, then season.;5. Once the chicken is cool enough to handle, remove and reserve the skin and discard any gristle. Shred the meat, discarding the bones.;6. Squeeze the garlic from its skins back into the roasting tray and squeeze over all the juice from the lemons and toss well.;7. Pour over the thickened stock and add the herbs and watercress. Check the seasoning, then finely chop the chicken skins and sprinkle over the filling.;8. Lay out sheets of filo on a clean surface and cut each one in half. Lightly scrunch up and place on top of the pie filling, brushing with the melted butter.;9.Bake for 25 minutes, or until crispy and golden, then serve with a crisp green salad.</item>
+        <item>558</item>
+    </string-array>
+
+    <!--6 breakfast recipes-->
+    <string-array name="breakfast1">
+        <item>breakfast</item>
+        <item>Pineapple pancake mess</item>
+        <item>b_1</item>
+        <item>40g cashew nuts;2 tablespoons unsweetened desiccated coconut flakes;1 ripe pineapple;4 cardamom pods;150g plain wholemeal flour;300ml semi-skimmed milk;1 large free-range egg;1 teaspoon vanilla extract;1 pinch of ground cinnamon;olive oil;4 tablespoons natural yoghurt;1 lime;manuka honey, optional</item>
+        <item>1. Toast the cashews in a large non-stick frying pan on a medium heat until lightly golden, add the coconut for just 30 seconds, then tip both into a pestle and mortar and lightly crush. Trim the ends off the pineapple, cut off the skin, quarter it lengthways and cut away the core. Chop the flesh into 1cm slices. Return the dry pan to a medium-high heat and cook the pineapple for 5 to 10 minutes, or until caramelized, tossing regularly, then remove to a warm plate.;2. Meanwhile, crush the cardamom pods, putting just the inner seeds into a blender with the flour, milk, egg, vanilla extract, cinnamon and a tiny pinch of sea salt. Blitz until smooth. Drizzle a little oil into the empty pineapple pan, then carefully wipe it around and out with a ball of kitchen paper. Add just enough batter to lightly cover the base of the pan, cook until golden on both sides, then remove to a second plate. Repeat the process, stacking up the pancakes as you go and covering with a tea towel to keep warm.;3. Either make up individual portions, or do a sharing platter for the middle of the table. Randomly tear, fold and layer up the pancakes with the caramelized pineapple, spoonfuls of yoghurt and sprinklings of crushed cashews and coconut. Repeat until you’ve used up all the ingredients, then finely grate over the lime zest. Nice served with a drizzle of honey, if you fancy.</item>
+        <item>309</item>
+    </string-array>
+
+    <string-array name="breakfast2">
+        <item>breakfast</item>
+        <item>Roasted stone fruit</item>
+        <item>b_2</item>
+        <item>6 oranges;1 tablespoon balsamic vinegar;1 vanilla pod;150 g ripe strawberries;200 g Medjool dates;360 g porridge oats;80 g unsweetened desiccated coconut flakes;extra virgin olive oil;2 kg mixed seasonal stone fruit , such as plums, peaches, apricots, cherries</item>
+        <item>1. Preheat the oven to 200°C/400°F/gas 6. Halve the oranges and squeeze all the juice into a large roasting dish with the balsamic. Halve the vanilla pod lengthways and scrape out the seeds, then add both pod and seeds to the dish. Grate in the strawberries, mix together, and pop into the oven to warm through while you prep your crumble and fruit.;2. For the crumble, tear the stones out of the dates and place the flesh in a food processor with the oats, coconut flakes, 1 tablespoon of oil and 130ml of water, then blitz into a crumble. Pour into a roasting tray or dish (30cm x 40cm) and spread out into an even layer. Wash all the fruit, then halve or quarter, removing the stones as you go. Pull the dish of warm, delicious juices out of the oven and gently stir in all the fruit. Return to the top shelf of the oven, place the crumble on the shelf underneath, and cook for 45 minutes, or until the fruit is soft and sticky and the crumble is nicely golden. Stir the crumble occasionally as it cooks to break it up and give it a nice even colour.;3. Serve up however many portions you want while it’s all warm, adding 1 tablespoon of yoghurt to each one. Once cool, decant the rest of the crumble portions into an airtight jar to enjoy in the days that follow, and pop the fruit into the fridge, where it will keep happily for up to 5 days.</item>
+        <item>218</item>
+    </string-array>
+
+    <string-array name="breakfast3">
+        <item>breakfast</item>
+        <item>Classic crumpets</item>
+        <item>b_3</item>
+        <item>400 ml milk;1 tablespoon dried yeast;1 teaspoon caster sugar;300 g strong white flour;1/2 teaspoon bicarbonate of soda;vegetable oil , for greasing;butter;350 ml double cream</item>
+        <item>1. Gently warm the milk. In a bowl, dissolve the yeast and sugar in the warm milk and 100ml of tepid water. Leave in a warm place for 15 minutes, or until frothy.;2. Sift the flour, bicarbonate of soda and 1 teaspoon of fine sea salt into a large bowl. Make a well in the centre and pour in the yeast mixture.;3. Whisk from the centre outwards until the consistency of double cream – this will take a few minutes. Add a splash more water, if needed.;4. Cover with a damp tea towel and set aside for 45 minutes or until little bubbles form on the surface.;5. For the butter, pour the cream into a freestanding mixer. Whisk on high for 5 to 10 minutes, or until the cream splits into solids and liquid.;6. Drain through a sieve, discard the liquid, then rinse the solids thoroughly with cold water. Place in muslin and squeeze out any excess liquid. Mix ½ a teaspoon of sea salt through and wrap in greaseproof paper.;7. Grease four 10cm egg rings with vegetable oil. Wipe a little oil around a large frying pan or iron skillet and place over a medium-high heat.;8. Arrange the rings in the frying pan and, once hot, spoon 4 tablespoons of the batter into each ring. Cook for 5 minutes, or until little bubbles appear on the surface.;9. Once the bubbles have burst, leaving little holes, use tongs to carefully lift off the rings and flip over the crumpets, then cook for 1 minute on the other side. Re-grease and reheat the rings and pan before cooking the next batch.;10. Serve the crumpets warm, with a slather of butter. If making them in advance, just toast lightly on both sides when you come to serve them.</item>
+        <item>291</item>
+    </string-array>
+
+    <string-array name="breakfast4">
+        <item>breakfast</item>
+        <item>DIY oaty fruity cereal</item>
+        <item>b_4</item>
+        <item>cereal;100 g dried fruit, such as sultanas, raisins, dried apricots;50 g mixed unsalted nuts, such as almonds, hazelnuts, walnuts;50 g mixed seeds, such as pumpkin, sunflower, sesame, poppy;400 g porridge oats;1 teaspoon ground cinnamon , optional;milk or natural yoghur, to serve;bircher (serves 4);1 eating apple;roughly 400 ml milk</item>
+        <item>1. To make the basic cereal, roughly chop any larger dried fruit and nuts, then place into a large bowl along with the seeds, oats and cinnamon (if using).;2. Tip into an airtight container.;3. Now you have two choices. To serve your cereal as it is, place a handful of cereal (roughly 50g) per person into your serving bowls.;4. Add milk or natural yoghurt and chopped fresh fruit, if you like, then serve.;5. To make bircher muesli for 4 people, add 200g of the cereal to a large bowl.;6. Place a box grater on a board, then coarsely grate the apple, discarding the core. Add it to your oaty cereal.;7. Pour over enough milk to cover, then mix well.;8. Cover the bowl with clingfilm, then pop in the fridge to soak overnight.;9. When you’re ready to eat, give the bircher a good stir, divide between your bowls, then serve with chopped fresh fruit, if you like.</item>
+        <item>189</item>
+    </string-array>
+
+    <string-array name="breakfast5">
+        <item>breakfast</item>
+        <item>Simple cheese omelette</item>
+        <item>b_5</item>
+        <item>2 large free-range eggs;olive oil;10 g Cheddar cheese</item>
+        <item>1. Crack the eggs into a mixing bowl, season with a pinch of sea salt and black pepper, then beat well with a fork until fully combined.;2. Place a small non-stick frying pan on a low heat to warm up.;3. Grate the cheese onto a board and set aside.;4. Add 1/2 tablespoon of oil to the hot pan, then carefully pour in the eggs.;5. Tilt the pan to spread them out evenly, using a fork to swirl the eggs around the pan a little.;6. When the omelette begins to cook and firm up, but still has a little raw egg on top, sprinkle over the cheese.;7. Using a spatula, ease around the edges of the omelette, then fold it over in half.;8. When it starts to turn golden brown underneath, remove the pan from the heat and slide the omelette onto a plate. Delicious with a tomato salad and wholemeal bread.</item>
+        <item>241</item>
+    </string-array>
+
+    <string-array name="breakfast6">
+        <item>breakfast</item>
+        <item>Quick Mexican breakfast</item>
+        <item>b_6</item>
+        <item>3 ripe tomatoes;2 roasted red peppers from a jar;4 spring onions;1/2–1 lime;extra virgin olive oil;1 x 400 g tin of black beans;olive oil;8 small flour or corn tortillas;4 large free-range eggs;1 knob of butter</item>
+        <item>1. Make a fast and simple salsa by chopping the tomatoes, peppers and spring onions together on a big board.;2. Squeeze over the juice from half a lime, drizzle with extra virgin olive oil and season, then use the knife to chop and mix it all together. Taste and add more lime juice if needed.;3. Drain and pour the black beans into a small saucepan, season, drizzle with olive oil and heat through gently.;4. Meanwhile, heat a frying pan, toast the tortillas one at a time on both sides until charred, then keep warm under a clean tea towel or foil.;5. Fry the eggs in a little butter and oil, keeping the yolks nice and soft.;6. Pop 2 tortillas on each plate and top with beans, salsa and an egg. Serve with salsa verde fresco for a bit of attitude.</item>
+        <item>550</item>
+    </string-array>
+
+    <!--6 lunch recipes-->
+    <string-array name="lunch1">
+        <item>lunch</item>
+        <item>Delicious winter salad</item>
+        <item>l_1</item>
+        <item>1/2 a red cabbage;1/2 a white cabbage;2 large carrots;4 spring onions;a few shoots from winter cabbages, such as kale or cavolo nero , optional;300 ml milk;4 anchovies, from sustainable sources;6 cloves of garlic;2 tablespoons white wine vinegar;6 tablespoons extra virgin olive oil;1 teaspoons Dijon mustard;1 handful of mixed seeds, such as poppy, sesame and sunflower;1/2 a bunch of fresh mint</item>
+        <item>1. Quarter and finely shred the cabbages, peel and finely slice the carrots and trim and finely slice the spring onions.;2. Place in a large bowl and if you’re lucky enough to have any other interesting winter cabbages leaves, you can add those into the mix too.;3. Put your milk in a pan on a medium heat with the anchovies. Peel and add the garlic, then bring to a simmer.;4. Let it cook for 10 minutes until the garlic cloves are soft, then pour everything into a liquidiser.;5. Add the vinegar, oil and mustard and blend for a few minutes, then stop and have a taste. You want it to be quite acidic, but if it’s too acidic add a bit of oil for balance.;6. Add good pinches of sea salt and black pepper, then pour it over the sliced veg.;7. Use your hands to toss and dress everything and get everyone around the table.;8. Heat the seeds in a dry pan for a few minutes until warm, then scatter them over the salad. Pick and tear over your mint leaves, then eat it immediately.</item>
+        <item>205</item>
+    </string-array>
+
+    <string-array name="lunch2">
+        <item>lunch</item>
+        <item>Salmon with young garlic</item>
+        <item>l_2</item>
+        <item>1 bulb of fresh young garlic (if you can’t find young garlic, substitute with 2 chopped cloves of garlic and 1 sliced bulb of fennel);1 punnet ripe cherry tomatoes;1 lemon;olive oil;4 salmon fillets , skin on, scaled and pin-boned, from sustainable sources;a few sprigs of fresh mint;a few sprigs of fresh dill</item>
+        <item>1. Slice the bulb of garlic into thin wedges, then squash the tomatoes. Halve the lemon, then slice half finely.;2. Add a good drizzle of oil to a hot frying pan and fry the garlic until it softens and caramelises. Add the tomatoes and cook till they soften.;3. In another pan, heat oil on a medium-high heat. Season the salmon and cook, skin-side down, for 3 minutes. Turn, add the lemon slices to the pan, and cook for 2 minutes, or till the salmon is done to your liking.;4. Pick, finely chop and stir the mint and dill through the sauce, then tip over the salmon fillets and serve.</item>
+        <item>275</item>
+    </string-array>
+
+    <string-array name="lunch3">
+        <item>lunch</item>
+        <item>Super-tasty miso broth</item>
+        <item>l_3</item>
+        <item>150 g mixed brown and wild or brown rice;20 g dried porcini mushrooms;1 red onion;sesame oil;1 x 5cm piece of ginger;1 heaped teaspoon miso paste;800 ml really good chicken stock;6 radishes;rice or white wine vinegar;1 x 200 g skinless free-range chicken breast;1 handful of colourful curly kale;1 sheet of nori;150 g mixed exotic mushrooms, such as enoki, chestnut, shiitake</item>
+        <item>1. Cook the rice according to the packet instructions. Put the porcini in a small bowl and just cover with boiling water to rehydrate them.;2. Meanwhile, peel the onion and cut into eighths, then place in a medium pan on a medium-high heat with 1 teaspoon of sesame oil. Cook for a few minutes, or until dark golden, stirring occasionally, while you peel and matchstick the ginger. Reduce the heat to medium-low, then add the ginger, miso paste and stock, along with the porcini and soaking water, leaving the last gritty bit behind. Cover and simmer gently for 20 minutes. Halve the radishes, put them into a bowl, toss in a splash of vinegar and a small pinch of sea salt and leave aside to quickly pickle.;3. Finely slice the chicken and tear the kale and nori into small pieces, removing any tough stalks from the kale. Break up the mushrooms, leaving the cute ones whole, and stir it all through the broth. Re-cover and cook for 4 minutes, or until the chicken is cooked through. Drain and divide the rice between your bowls, followed by the radishes. Season the broth to perfection, ladle it into the bowls, and then serve.</item>
+        <item>521</item>
+    </string-array>
+
+    <string-array name="lunch4">
+        <item>lunch</item>
+        <item>Hungover noodles</item>
+        <item>l_4</item>
+        <item>1 thumb-sized piece of ginger;1 clove of garlic;2 tablespoons low-salt soy sauce;3 tablespoons rice wine vinegar;3 tablespoons sesame oil;1 Chinese cabbage;500 g fresh or frozen broccoli;250 g medium egg noodles;200 g mangetout;4 large eggs;olive oil;hot chilli sauce, to serve</item>
+        <item>1. This super-fast, super-tasty meal is perfect when you’re feeling a little down or, let’s be honest, a bit hungover, as it’s full of the good stuff. Flavouring the noodles with a dressing is genius, and a runny fried egg on top is a bit of an added bonus. Drizzle with lots of chilli sauce to ensure it gives you a slap around the face, and tuck in.;2. Peel the ginger and garlic and finely grate into a large bowl. Add the soy sauce, vinegar, sesame oil and a pinch of pepper, then mix to make a dressing. Trim and shred the cabbage and put it into a large pan of boiling salted water with the broccoli (cut into florets first, if using fresh) and noodles to cook for around 3 minutes, then add the mangetout for a final minute. Drain it all well, then toss in the bowl of dressing.;3. Meanwhile, fry the eggs in a large non-stick frying pan on a medium heat with a lug of olive oil until cooked to your liking (I like mine with a runny yolk). Divide the noodles between bowls, pop an egg on top of each one, and serve drizzled with chilli sauce for that all-important added kick.;4. Using buckwheat noodles in this dish like you see in the picture is really nice – they’re a little bit more expensive but have a great flavour and texture. Just make sure you check the packet instructions in case they take longer to cook. Feel free to also ring the changes by adding any other fresh seasonal veg, or leftovers you have in the fridge.</item>
+        <item>537</item>
+    </string-array>
+
+    <string-array name="lunch5">
+        <item>lunch</item>
+        <item>Crunchy carrot pittas</item>
+        <item>l_5</item>
+        <item>6 medium carrots;a bunch of fresh coriander;2 tablespoons sesame seeds;1 tablespoon poppy seeds;6 wholemeal pittas;1 orange;2 lemons;extra virgin olive oil;sea salt;freshly ground black pepper</item>
+        <item>1. If you’re bored of sandwiches, then these stuffed pittas are the best alternative. They’re perfect for packed lunches and there’s no excuse for them not to be delicious – give these a go, then experiment with your own favourite flavour combinations.;2. Preheat the oven to 130°C/250°F /gas 1/2.;3. Use a Y-shaped peeler to peel the carrots on a chopping board.;4. Pick the coriander leaves and finely chop them, discarding the stalks.;5. Place a small non-stick frying pan on a medium heat, add the seeds and leave them to toast for 3 to 4 minutes, or until lightly golden, tossing regularly, then tip them into a salad bowl.;6. Coarsely grate the carrots using a box grater, then add them to the salad bowl along with the coriander leaves.;7. Pop the pittas onto a baking tray and into the oven for a few minutes to warm through.;8. To make the dressing, use a microplane to finely grate the zest of the orange, then add it to a small mixing bowl.;9. Cut the orange in half and squeeze in the juice, catching any pips with your hand.;10. The lemons in half and squeeze in the juice from 1½ lemons, then add 5 tablespoons of extra virgin olive oil.;11. Add a tiny pinch of salt and pepper, then mix well with a fork.;12. Pour the dressing into the salad bowl and toss everything together well, adding a squeeze more lemon juice if you think it needs it.;13. Use oven gloves to remove the pittas from the oven, then serve with the zingy salad and some homemade houmous and let everyone stuff and build their own pittas.;14. If you want to turn this salad into more of a main meal, try adding some thinly sliced orange, a few slices of grilled chicken, or a little feta or goat’s cheese crumbled over the top.</item>
+        <item>315</item>
+    </string-array>
+
+    <string-array name="lunch6">
+        <item>lunch</item>
+        <item>Store cupboard lentil soup</item>
+        <item>l_6</item>
+        <item>2 red onions;2 carrots;3 sticks celery;2 cloves garlic;6 rashers of higher-welfare smoked streaky bacon;a few sprigs fresh flat-leaf parsley;olive oil;1/2 a dried chilli;1/2 teaspoon dried thyme;200 g dried lentils, (a mixture of green and red is nice);1 organic vegetable stock cube , optional;1 x 410 g tin of cannellini beans;extra virgin olive oil</item>
+        <item>1. Peel and finely chop the onions and carrots, trim and finely chop the celery, and peel and finely slice the garlic. Finely chop the bacon.;2. Heat a lug of olive oil in a large pan over a medium heat, add the bacon and fry slowly until the bacon starts to release all its tasty fat and goes crispy, then crumble in the dried chilli, and add the dried thyme, onion, carrot, celery and garlic.;3. Cook gently with the lid on for about 15 minutes, or until all the vegetables are soft, then add the lentils and 1 litre water or vegetable stock. Bring to the boil and simmer until the lentils are soft (check the packet instructions as different types of lentils vary in cooking time. If you’re mixing your lentils, cook for the longest amount of time to make sure they are all cooked properly).;4. Drain, then tip in the cannellini beans and, if the soup’s a little thick, add a splash more water. Bring back to the boil and simmer for another 10 minutes, then taste and season with sea salt and black pepper.;5. Meanwhile, pick and finely chop the parsley.;6. Ladle into bowls and finish with a drizzle of extra virgin olive oil and the chopped parsley. Serve with hunks of bread for dunking.</item>
+        <item>236</item>
+    </string-array>
+
+    <string-array name="spinnerItems">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="activityItems">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+</resources>
